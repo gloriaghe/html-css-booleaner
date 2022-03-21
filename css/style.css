@@ -1,0 +1,9 @@
+header {
+    background: lightskyblue url(../img/pattern.png) repeat 20% 20%;
+}
+
+header img {
+    width: 15%;
+    height: 15%;
+}
+
