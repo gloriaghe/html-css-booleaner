@@ -19,10 +19,16 @@ section span {
     font-size: 15px;
 }
 
-th {
-    background-color: aqua;
-}
-
 .colorline{
     background-color: lightblue;
+}
+
+.largetable{
+    width: 300px;
+}
+
+thead {
+    text-align: left;
+    color: white;
+    background-color: blue;
 }
