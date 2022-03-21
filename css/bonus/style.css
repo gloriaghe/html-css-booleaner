@@ -1,0 +1,62 @@
+header {
+    background: lightskyblue url(../../img/pattern.png) repeat 20% 20%;
+}
+
+header img {
+    width: 15%;
+    height: 15%;
+}
+
+.title {
+    font-size: 2em;
+}
+
+section span {
+    color: lightskyblue
+}
+
+#data {
+    font-size: 15px;
+}
+
+.colorline{
+    background-color: lightblue;
+}
+
+.largetable{
+    width: 300px;
+}
+
+thead {
+    text-align: left;
+    color: white;
+    background-color: blue;
+}
+
+.yellowtext{
+    background-color: yellow;
+}
+
+h3 {
+    color: grey;
+}
+
+.contenitore{
+    width: 260px;
+    height: 180px;
+    color: white;
+    font-size: large;
+}
+
+.imgmonitor{
+    background-image:url(../../img/monitor.jpg) ;
+}
+
+.imggraph {
+    background-image: url(../../img/graph.jpg);
+}
+
+main, footer{
+    margin-left: 100px;
+    margin-right: 100px;
+}
