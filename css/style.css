@@ -33,6 +33,10 @@ thead {
     background-color: blue;
 }
 
+.yellowtext{
+    background-color: yellow;
+}
+
 h3 {
     color: grey;
 }
@@ -44,10 +48,10 @@ h3 {
     font-size: large;
 }
 
-.img1{
+.imgmonitor{
     background-image:url(../img/monitor.jpg) ;
 }
 
-.img2 {
+.imggraph {
     background-image: url(../img/graph.jpg);
 }
