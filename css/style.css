@@ -18,3 +18,11 @@ section span {
 #data {
     font-size: 15px;
 }
+
+th {
+    background-color: aqua;
+}
+
+.colorline{
+    background-color: lightblue;
+}
