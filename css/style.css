@@ -7,3 +7,14 @@ header img {
     height: 15%;
 }
 
+.title {
+    font-size: 2em;
+}
+
+section span {
+    color: lightskyblue
+}
+
+#data {
+    font-size: 15px;
+}
